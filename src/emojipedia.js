@@ -19,6 +19,20 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "🥺",
+    name: "Pleading Face",
+    meaning:
+      "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture.“."
+  },
+  {
+    id: 5,
+    emoji: "✨",
+    name: "Sparkles",
+    meaning:
+      "Commonly used to indicate various positive sentiments, including love, happiness, beauty, gratitude, and excitement. May also be used to convey newness or cleanliness."
   }
 ];
 
